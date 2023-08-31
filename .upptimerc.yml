@@ -8,6 +8,7 @@ sites:
 
 status-website:
   # baseUrl: /your-repo-name
+  cname: status.zimavi.net.ua
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Up Time
   introTitle: "Up Time page for zimavi's web sites/services"
