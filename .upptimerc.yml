@@ -12,7 +12,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Up Time
   introTitle: "Up Time page for zimavi's web sites/services"
-  introMessage: Here is info about status of all zimavi's web projects \n (There is no any web service, so you can check out Google)
+  introMessage: Here is info about status of all zimavi's web projects (There is no any web service, so you can check out Google)
   navbar:
     - title: Status
       href: /
