@@ -1,20 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
-    "slug": "google",
+    "name": "Main Website",
+    "url": "https://zimavi.net.ua",
+    "icon": "https://icons.duckduckgo.com/ip3/zimavi.net.ua.ico",
+    "slug": "main-website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 166,
-    "timeWeek": 135,
-    "timeMonth": 133,
-    "timeYear": 161,
-    "dailyMinutesDown": {}
+    "uptimeYear": "0.00%",
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
+    "dailyMinutesDown": {
+      "2023-08-31": 17
+    }
   }
 ]
