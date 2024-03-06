@@ -3,8 +3,8 @@ owner: zimavi # Your GitHub organization or username, where this repository live
 repo: uptime-webs # The name of this repository
 
 sites:
-  - name: Main Website
-    url: https://zimavi.net.ua
+  - name: Main Website (dummy)
+    url: https://google.com
 
 status-website:
   # baseUrl: /your-repo-name
