@@ -6,9 +6,13 @@ sites:
   - name: Minecraft Server (Webmap)
     url: father-sweet.gl.at.ply.gg:62911
   - name: Minecraft Server (Main)
-    url: articles-permit.gl.at.ply.gg:65131
+    check: "tcp-ping"
+    url: articles-permit.gl.at.ply.gg
+    port: 65131
   - name: Minecraft Server (Proxy)
-    url: related-convergence.gl.at.ply.gg:62775
+    check: "tcp-ping"
+    url: related-convergence.gl.at.ply.gg
+    port: 62775
 
 status-website:
   # baseUrl: /your-repo-name
