@@ -5,6 +5,10 @@ repo: uptime-webs # The name of this repository
 sites:
   - name: Minecraft Server (Webmap)
     url: father-sweet.gl.at.ply.gg:62911
+  - name: Minecraft Server (Main)
+    url: articles-permit.gl.at.ply.gg:65131
+  - name: Minecraft Server (Proxy)
+    url: related-convergence.gl.at.ply.gg:62775
 
 status-website:
   # baseUrl: /your-repo-name
