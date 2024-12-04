@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/62911.ico",
     "slug": "minecraft-server-webmap",
     "status": "down",
-    "uptime": "73.07%",
-    "uptimeDay": "73.07%",
-    "uptimeWeek": "73.07%",
-    "uptimeMonth": "73.07%",
-    "uptimeYear": "73.07%",
+    "uptime": "71.96%",
+    "uptimeDay": "71.96%",
+    "uptimeWeek": "71.96%",
+    "uptimeMonth": "71.96%",
+    "uptimeYear": "71.96%",
     "time": 891,
     "timeDay": 891,
     "timeWeek": 891,
     "timeMonth": 891,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2024-12-04": 186,
+      "2024-12-04": 204,
       "2024-12-03": 120
     }
   }
