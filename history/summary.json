@@ -4,19 +4,19 @@
     "url": "father-sweet.gl.at.ply.gg:62911",
     "icon": "https://icons.duckduckgo.com/ip3/62911.ico",
     "slug": "minecraft-server-webmap",
-    "status": "down",
-    "uptime": "67.33%",
-    "uptimeDay": "66.00%",
-    "uptimeWeek": "67.33%",
-    "uptimeMonth": "67.33%",
-    "uptimeYear": "67.33%",
-    "time": 880,
-    "timeDay": 870,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "status": "up",
+    "uptime": "66.85%",
+    "uptimeDay": "64.77%",
+    "uptimeWeek": "66.85%",
+    "uptimeMonth": "66.85%",
+    "uptimeYear": "66.85%",
+    "time": 886,
+    "timeDay": 883,
+    "timeWeek": 886,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2024-12-05": 226,
+      "2024-12-05": 243,
       "2024-12-04": 450,
       "2024-12-03": 120
     }
@@ -26,19 +26,19 @@
     "url": "articles-permit.gl.at.ply.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-main",
-    "status": "down",
-    "uptime": "78.32%",
-    "uptimeDay": "78.32%",
-    "uptimeWeek": "78.32%",
-    "uptimeMonth": "78.32%",
-    "uptimeYear": "78.32%",
+    "status": "up",
+    "uptime": "76.99%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "76.99%",
+    "uptimeMonth": "76.99%",
+    "uptimeYear": "76.99%",
     "time": 18,
     "timeDay": 18,
     "timeWeek": 18,
     "timeMonth": 18,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2024-12-05": 223
+      "2024-12-05": 241
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "related-convergence.gl.at.ply.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-proxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
     "time": 19,
     "timeDay": 19,
     "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 19,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 18
     }
   }
 ]
