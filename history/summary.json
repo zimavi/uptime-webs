@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/62911.ico",
     "slug": "minecraft-server-webmap",
     "status": "down",
-    "uptime": "74.11%",
-    "uptimeDay": "79.80%",
-    "uptimeWeek": "74.11%",
-    "uptimeMonth": "74.11%",
-    "uptimeYear": "74.11%",
+    "uptime": "67.33%",
+    "uptimeDay": "66.00%",
+    "uptimeWeek": "67.33%",
+    "uptimeMonth": "67.33%",
+    "uptimeYear": "67.33%",
     "time": 880,
-    "timeDay": 885,
+    "timeDay": 870,
     "timeWeek": 880,
     "timeMonth": 880,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2024-12-05": 3,
+      "2024-12-05": 226,
       "2024-12-04": 450,
       "2024-12-03": 120
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-main",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "78.32%",
+    "uptimeDay": "78.32%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "78.32%",
+    "uptimeYear": "78.32%",
     "time": 18,
     "timeDay": 18,
     "timeWeek": 18,
     "timeMonth": 18,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2024-12-05": 0
+      "2024-12-05": 223
     }
   },
   {
@@ -46,7 +46,7 @@
     "url": "related-convergence.gl.at.ply.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,8 @@
     "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 19,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   }
 ]
