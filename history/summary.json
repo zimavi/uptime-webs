@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yukihana-s-ypm-official-repository",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 642,
-    "timeDay": 833,
-    "timeWeek": 739,
-    "timeMonth": 661,
-    "timeYear": 642,
+    "uptimeYear": "99.89%",
+    "time": 643,
+    "timeDay": 687,
+    "timeWeek": 751,
+    "timeMonth": 660,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2025-04-16": 118
     }
